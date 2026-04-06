@@ -239,3 +239,21 @@ INFO: Unsupported notification method: $/setTrace
 2026.04.06 12:38:58 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MatrixMath.java. Using fallback presentation compiler.[0m
 2026.04.06 12:38:58 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MatrixMath.java[0m
 2026.04.06 12:38:58 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MatrixMath.java. Using fallback presentation compiler.[0m
+Apr 06, 2026 12:40:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 06, 2026 12:41:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 06, 2026 12:45:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 06, 2026 12:45:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 06, 2026 12:45:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 06, 2026 12:45:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 06, 2026 12:45:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 06, 2026 12:45:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 06, 2026 12:45:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
