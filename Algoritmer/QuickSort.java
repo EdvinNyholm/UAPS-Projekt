@@ -1,41 +1,45 @@
 package Algoritmer;
+
+import java.util.ArrayList;
+import java.util.Collections;
+
 public class QuickSort {
 
-    public static void quickSort(int[] A, int start, int end) {
-
-        if (start >= end) {
+    public static void quickSort(ArrayList<Integer> A, int left, int right) {
+        if (left >= right) {
             return; // basfall
         }
 
-        int pivotIndex = partition(A, start, end);
+        int pivotIndex = partition(A, left, right);
 
-        quickSort(A, start, pivotIndex - 1); // vänster del
-        quickSort(A, pivotIndex + 1, end);   // höger del
+        
+        quickSort(A, left, pivotIndex - 1); 
+        quickSort(A, pivotIndex + 1, right);   
     }
 
-    private static int partition(int[] A, int start, int end) {
+    private static int partition(ArrayList<Integer> A, int left, int right) {
+        // Vi väljer sista elementet som pivot
+        int pivot = A.get(right); 
+        int i = left - 1;
 
-        int pivot = A[end]; // välj sista elementet som pivot
-        int i = start - 1;
-
-        for (int j = start; j < end; j++) {
-
-            if (A[j] <= pivot) {
+        for (int j = left; j < right; j++) {
+            // Jämför objektens värden
+            if (A.get(j) <= pivot) {
                 i++;
                 swap(A, i, j);
             }
         }
 
-        swap(A, i + 1, end);
+        // Placera pivot på rätt plats
+        swap(A, i + 1, right);
 
         return i + 1;
     }
 
-    private static void swap(int[] A, int i, int j) {
-
-        int temp = A[i];
-        A[i] = A[j];
-        A[j] = temp;
+    private static void swap(ArrayList<Integer> A, int i, int j) {
+        // I ArrayList måste vi använda set() och get() istället för [index]
+        int temp = A.get(i);
+        A.set(i, A.get(j));
+        A.set(j, temp);
     }
-
 }

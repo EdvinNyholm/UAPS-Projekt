@@ -257,3 +257,121 @@ Apr 06, 2026 12:45:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint noti
 INFO: Unsupported notification method: $/setTrace
 Apr 06, 2026 12:45:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2026.04.06 12:52:35 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MatrixMath.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:35 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MatrixMath.java[0m
+2026.04.06 12:52:35 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MatrixMath.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:35 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MatrixMath.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:35 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MatrixMath.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:36 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MatrixMath.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:37 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MatrixMath.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:36 INFO  Created report: Optional[file:///home/gustav/Documents/kurser/utv%C3%A4rdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MatrixMath.java][0m
+2026.04.06 12:52:36 INFO  empty definition using pc, found symbol in pc: java/util/ArrayList# (full report at: "/home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/.metals/.reports/metals-full/2026-04-06/r_empty-definition_12-52-37-187.md")[0m
+2026.04.06 12:52:37 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MatrixMath.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:48 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:48 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java[0m
+2026.04.06 12:52:48 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:48 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:49 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:48 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:48 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:49 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:49 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:56 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:56 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:56 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:56 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:57 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:57 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:59 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:59 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:59 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:59 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:52:59 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:53:00 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:53:00 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:53:00 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.06 12:53:01 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 12:53:01 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java[0m
+2026.04.06 12:53:01 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 12:53:01 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 12:53:02 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 12:53:02 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 12:58:23 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 12:58:23 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java[0m
+2026.04.06 12:58:23 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 12:58:23 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 12:58:23 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 12:58:23 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 12:58:24 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 12:58:24 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 12:58:31 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 12:58:31 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java[0m
+2026.04.06 12:58:31 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 12:58:31 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 12:58:31 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 12:58:43 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 12:58:43 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:01:56 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:01:56 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java[0m
+2026.04.06 13:01:56 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:01:56 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:01:56 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:01:57 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:01:59 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:01:59 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:00 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:00 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:01 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:01 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:01 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:01 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:02 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:01 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:01 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:03 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:03 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java[0m
+2026.04.06 13:02:03 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:04 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:06 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:09 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:09 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:09 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:09 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:10 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:10 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:12 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:13 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:13 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:14 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:14 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:15 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:15 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:18 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:18 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:19 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:19 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:19 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:19 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:20 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:22 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:22 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:22 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:23 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:23 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+Apr 06, 2026 1:02:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 468
+2026.04.06 13:02:23 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:23 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:23 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:23 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:24 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:24 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:24 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:25 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:25 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:25 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:25 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:26 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:27 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java[0m
+2026.04.06 13:02:27 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.06 13:02:29 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
