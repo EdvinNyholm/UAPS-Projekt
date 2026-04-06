@@ -1,6 +1,6 @@
 import time
 import numpy as np
-from QuickSort import QuickSort
+from Algoritmer.QuickSort import QuickSort
 from BubbleSort import BubbleSort
 
 def load_data(filename):

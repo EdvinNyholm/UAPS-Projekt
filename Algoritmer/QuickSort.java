@@ -1,3 +1,4 @@
+package Algoritmer;
 public class QuickSort {
 
     public static void quickSort(int[] A, int start, int end) {
