@@ -4,7 +4,7 @@ def MatrixMath(A, B):
     cols_A = len(A[0])
     cols_B = len(B[0])
     
-    # Skapa resultatmatris fylld med nollor
+    
     result = [[0 for _ in range(cols_B)] for _ in range(rows_A)]
     
     for i in range(rows_A):          # Gå igenom rader i A

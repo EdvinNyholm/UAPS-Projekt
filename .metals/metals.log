@@ -386,3 +386,224 @@ WARNING: Unmatched cancel notification for request id 501
 2026.04.06 13:04:16 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MatrixMath.java. Using fallback presentation compiler.[0m
 2026.04.06 13:04:16 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MatrixMath.java. Using fallback presentation compiler.[0m
 2026.04.06 13:04:16 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MatrixMath.java. Using fallback presentation compiler.[0m
+2026.04.07 14:22:38 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.07 14:22:39 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java[0m
+Apr 07, 2026 2:22:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 512
+2026.04.07 14:22:39 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.07 14:22:39 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.07 14:22:41 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.07 14:22:41 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.07 14:22:41 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.07 14:22:41 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.07 14:22:48 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+Apr 07, 2026 2:26:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 07, 2026 2:28:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.07 14:30:13 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:30:13 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java[0m
+2026.04.07 14:30:13 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java[0m
+2026.04.07 14:30:13 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:30:13 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:30:18 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:30:18 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:30:18 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:30:19 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+Apr 07, 2026 2:30:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 539
+Apr 07, 2026 2:30:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 541
+2026.04.07 14:30:18 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:30:24 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:30:24 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:30:28 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:30:28 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:30:31 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:30:31 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:30:31 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:30:31 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:30:31 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:30:32 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:30:33 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:31:06 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:31:06 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:31:07 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:31:09 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:32:02 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:32:02 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:32:02 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:32:03 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:32:03 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:32:03 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:32:03 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:32:04 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:32:04 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:32:04 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:32:05 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:35:12 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.07 14:39:54 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+Apr 09, 2026 12:34:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.10 10:18:56 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:18:56 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java[0m
+2026.04.10 10:18:56 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:18:56 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:18:56 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:18:57 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:18:57 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:18:57 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:18:57 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:18:57 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:18:58 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:18:58 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:18:58 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:18:59 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java[0m
+2026.04.10 10:18:59 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:19:00 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:19:14 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:19:14 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java[0m
+2026.04.10 10:19:14 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:19:14 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:19:14 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:19:14 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:19:16 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:19:16 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:19:16 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:19:17 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:22 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:23 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:23 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:25 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:25 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:26 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:26 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:26 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:26 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:26 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:27 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:27 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:27 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java[0m
+2026.04.10 10:20:27 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:29 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:29 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:29 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:30 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:30 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:30 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:31 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:31 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:31 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:31 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:33 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:33 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:34 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:34 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:34 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:36 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:36 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:36 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+Apr 10, 2026 10:20:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 714
+2026.04.10 10:20:37 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:37 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:37 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:37 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:39 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:39 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:40 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:43 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:44 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:51 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java[0m
+2026.04.10 10:20:51 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:53 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:53 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java[0m
+2026.04.10 10:20:53 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:53 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:55 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:55 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:55 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:56 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:56 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:57 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:58 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:58 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:58 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:58 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java[0m
+2026.04.10 10:20:58 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:59 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.10 10:20:59 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.10 10:21:08 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:21:08 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java[0m
+2026.04.10 10:21:08 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:21:11 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:26:32 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.10 10:26:32 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java[0m
+2026.04.10 10:26:32 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.10 10:26:32 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.10 10:26:32 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.10 10:26:32 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MergeSortArrayList.java. Using fallback presentation compiler.[0m
+2026.04.10 10:26:35 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/MatrixMath.java. Using fallback presentation compiler.[0m
+2026.04.10 10:26:36 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/Algoritmer/QuickSort.java. Using fallback presentation compiler.[0m
+2026.04.10 10:26:42 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:07 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:07 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java[0m
+2026.04.10 10:48:07 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+Apr 10, 2026 10:48:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 786
+2026.04.10 10:48:08 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:08 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:08 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:08 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:08 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:08 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:09 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:11 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:13 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:13 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:15 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:15 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:15 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:16 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:16 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:18 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:18 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:18 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:18 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:18 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:19 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:19 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:21 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:21 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:22 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:21 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:22 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:23 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:25 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java[0m
+2026.04.10 10:48:25 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:48:31 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:07 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:07 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java[0m
+2026.04.10 10:52:07 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:07 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:07 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:09 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java[0m
+2026.04.10 10:52:09 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:13 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:13 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:14 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:14 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:15 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:16 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:16 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:16 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:17 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:17 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:17 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:17 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:17 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:17 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:52:18 WARN  no build target for: /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java[0m
+2026.04.10 10:52:18 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:54:12 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+2026.04.10 10:54:14 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m

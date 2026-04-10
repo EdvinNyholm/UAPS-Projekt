@@ -1,60 +1,128 @@
 import time
 import numpy as np
 import os
+import subprocess
+import csv
+
 from Algoritmer.QuickSort import QuickSort
+from Algoritmer.MergeSort import mergesort
+from Algoritmer.MatrixMath import MatrixMath
+
+# --- DATAHANTERING ---
 
 def load_data(filename):
     filepath = os.path.join("Data", filename)
-    
     with open(filepath, "r") as f:
         return [int(line.strip()) for line in f if line.strip()]
 
-def run_python_quicksort(data):
+def load_matrix(filename):
+    filepath = os.path.join("Data", filename)
+    matrix = []
+    with open(filepath, "r") as f:
+        for line in f:
+            if line.strip():
+                matrix.append([int(x) for x in line.split(",")])
+    return matrix
 
-    arr = data.copy()
+def save_to_csv(name, all_batches):
+    if not os.path.exists("Results"):
+        os.makedirs("Results")
+    filename = f"Results/{name}_full.csv"
+    with open(filename, "w", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(["Batch", "Iteration", "Time_ns"])
+        for batch_idx, times in enumerate(all_batches):
+            for iter_idx, t in enumerate(times):
+                writer.writerow([batch_idx + 1, iter_idx + 1, t])
+    print(f"✅ Klart! Data sparad i: {filename}")
 
-    start = time.perf_counter_ns()
+# --- MÄTMETODER ---
 
-    QuickSort.quickSort(arr, 0, len(arr)-1)
+def run_python_batch(algo, filename, iterations):
+    times = []
+    if algo == "matrix":
+        size = filename.replace("data", "").replace(".txt", "")
+        A = load_matrix(f"matrix_a_{size}.txt")
+        B = load_matrix(f"matrix_b_{size}.txt")
+        for _ in range(iterations):
+            start = time.perf_counter_ns()
+            MatrixMath(A, B)
+            times.append(time.perf_counter_ns() - start)
+    else:
+        data = load_data(filename)
+        for _ in range(iterations):
+            arr = data.copy()
+            start = time.perf_counter_ns()
+            if algo == "quick": QuickSort.quickSort(arr, 0, len(arr)-1)
+            else: mergesort(arr)
+            times.append(time.perf_counter_ns() - start)
+    return times
 
-    end = time.perf_counter_ns()
+def run_numpy_batch(algo, filename, iterations):
+    times = []
+    if algo == "matrix":
+        size = filename.replace("data", "").replace(".txt", "")
+        A = np.genfromtxt(os.path.join("Data", f"matrix_a_{size}.txt"), delimiter=',')
+        B = np.genfromtxt(os.path.join("Data", f"matrix_b_{size}.txt"), delimiter=',')
+        for _ in range(iterations):
+            start = time.perf_counter_ns()
+            np.matmul(A, B)
+            times.append(time.perf_counter_ns() - start)
+    else:
+        data = np.array(load_data(filename))
+        for _ in range(iterations):
+            arr = np.copy(data)
+            start = time.perf_counter_ns()
+            if algo == "quick": np.sort(arr, kind='quicksort')
+            else: np.sort(arr, kind='mergesort')
+            times.append(time.perf_counter_ns() - start)
+    return times
 
-    return end - start
+def run_java_batch(algo, filename, iterations):
+    cmd = ["java", "MeasureJava", algo, filename, str(iterations)]
+    if algo == "matrix":
+        size = filename.replace("data", "").replace(".txt", "")
+        cmd[2] = f"matrix_a_{size}.txt" # Byter ut 'dataX.txt' mot matrisfilen
+        cmd.append(f"matrix_b_{size}.txt")
 
-
-
-
-def run_numpy_mergesort(data):
-
-    arr = np.array(data)
-
-    start = time.perf_counter_ns()
-
-    np.sort(arr, kind="mergesort")
-
-    end = time.perf_counter_ns()
-
-    return end - start
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    if result.returncode != 0:
+        print(f"❌ Java-fel: {result.stderr}")
+        return []
+    return [int(line) for line in result.stdout.strip().splitlines()]
 
 
 def main():
+    # Inställningar för testet
+    mode = "java"      # "python", "numpy", "java"
+    algo = "quick"     # "quick", "merge", "matrix"
+    data_size = "800"  # "50", "800", "5000"
+    
+    batches = 100      # Antalet yttre körningar
+    iterations = 500   # Antaler innre körningar
 
-    filename = "data50.txt"      # BYT DATAFIL HÄR
-    algorithm = "numpy_merge"    # BYT ALGORITM HÄR
-    runs = 5
+    filename = f"data{data_size}.txt"
+    all_results = []
 
-    data = load_data(filename)
+    print(f"--- STARTAR BENCHMARK: {mode.upper()} {algo.upper()} ({data_size} element) ---")
+    
+    for b in range(batches):
+        if (b + 1) % 10 == 0:
+            print(f"Bearbetar batch {b + 1}/{batches}...")
+            
+        if mode == "python":
+            batch_times = run_python_batch(algo, filename, iterations)
+        elif mode == "numpy":
+            batch_times = run_numpy_batch(algo, filename, iterations)
+        elif mode == "java":
+            batch_times = run_java_batch(algo, filename, iterations)
+            
+        if batch_times:
+            all_results.append(batch_times)
 
-    for i in range(runs):
-
-        if algorithm == "quick":
-            t = run_python_quicksort(data)
-
-        elif algorithm == "numpy_merge":
-            t = run_numpy_mergesort(data)
-
-        print(f"Run {i}: {t} ns")
-
+    # Spara resultatet
+    csv_name = f"{mode.capitalize()}_{algo.capitalize()}_{data_size}"
+    save_to_csv(csv_name, all_results)
 
 if __name__ == "__main__":
     main()
