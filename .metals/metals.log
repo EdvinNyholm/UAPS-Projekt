@@ -665,3 +665,11 @@ INFO: Unsupported notification method: $/setTrace
 2026.04.10 11:23:43 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
 2026.04.10 11:23:43 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
 2026.04.10 11:23:43 INFO  no build target found for /home/gustav/Documents/kurser/utvärdering_datasystem/projekt/UAPS-Projekt/MeasureJava.java. Using fallback presentation compiler.[0m
+Apr 10, 2026 11:31:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 10, 2026 11:32:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 10, 2026 11:34:23 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 10, 2026 11:34:54 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
