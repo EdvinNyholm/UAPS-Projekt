@@ -94,7 +94,7 @@ def run_java_batch(algo, filename, iterations):
 
 def main():
     # Inställningar för testet
-    mode = "java"      # "python", "numpy", "java"
+    mode = "python"      # "python", "numpy", "java"
     algo = "quick"     # "quick", "merge", "matrix"
     data_size = "800"  # "50", "800", "5000"
     
@@ -120,7 +120,6 @@ def main():
         if batch_times:
             all_results.append(batch_times)
 
-    # Spara resultatet
     csv_name = f"{mode.capitalize()}_{algo.capitalize()}_{data_size}"
     save_to_csv(csv_name, all_results)
 
