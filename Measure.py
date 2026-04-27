@@ -94,9 +94,9 @@ def run_java_batch(algo, filename, iterations):
 
 def main():
     # Inställningar för testet
-    mode = "numpy"      # "python", "numpy", "java"
-    algo = "matrix"     # "quick", "merge", "matrix"
-    data_size = "50"  # "50", "500", "800", "1000", "5000"
+    mode = "python"      # "python", "numpy", "java"
+    algo = "merge"     # "quick", "merge", "matrix"
+    data_size = "5000"  # "50", "500", "800", "1000", "5000"
     
     batches = 100      # Antalet yttre körningar
     iterations = 500   # Antaler innre körningar

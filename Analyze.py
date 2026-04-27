@@ -66,8 +66,8 @@ def analyze_results(filename):
 
 def main():
     mode = "Python"      # "Python", "Numpy", "Java"
-    algo = "Quick"     # "Quick", "Merge", "Matrix"
-    data_size = "800"  # "50", "800", "1000"
+    algo = "Merge"     # "Quick", "Merge", "Matrix"
+    data_size = "5000"  # "50", "800", "1000"
     
     # Se till att case matchar precis vad Measure.py sparar
     filename = f"{mode}_{algo}_{data_size}_full.csv"
